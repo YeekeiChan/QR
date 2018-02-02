@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/isle/kc/QR/zxing/build/intermediates/res/merged/debug/layout-land/share.xml",
+        "source": "/home/isle/kc/QR/zxing/src/main/res/layout-land/share.xml"
+    },
+    {
+        "merged": "/home/isle/kc/QR/zxing/build/intermediates/res/merged/debug/layout-land/encode.xml",
+        "source": "/home/isle/kc/QR/zxing/src/main/res/layout-land/encode.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Feb 02 10:16:59 CST 2018
+base.0=/home/isle/kc/QR/zxing/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/isle/kc/QR/zxing/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

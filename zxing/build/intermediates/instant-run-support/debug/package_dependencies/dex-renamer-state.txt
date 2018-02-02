@@ -1,0 +1,7 @@
+#Thu Feb 01 14:46:58 CST 2018
+base.0=/home/isle/kc/QR/zxing/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.3.2_70e2913b982b4ed2c1ae4f12e8974c4a8efd8274
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/isle/kc/QR/zxing/build/intermediates/transforms/dex/debug/folders/1000/2/android-core-3.3.0_7d729a0b14d8fbd9f4dc0c39cd8f8a3f5ae0e9a7/classes.dex
+base.1=/home/isle/kc/QR/zxing/build/intermediates/transforms/dex/debug/folders/1000/2/android-core-3.3.0_7d729a0b14d8fbd9f4dc0c39cd8f8a3f5ae0e9a7
+file.0=/home/isle/kc/QR/zxing/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.3.2_70e2913b982b4ed2c1ae4f12e8974c4a8efd8274/classes.dex

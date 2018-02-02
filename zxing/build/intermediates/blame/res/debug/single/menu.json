@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/isle/kc/QR/zxing/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/home/isle/kc/QR/zxing/src/main/res/menu/history.xml"
+    },
+    {
+        "merged": "/home/isle/kc/QR/zxing/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/home/isle/kc/QR/zxing/src/main/res/menu/capture.xml"
+    },
+    {
+        "merged": "/home/isle/kc/QR/zxing/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/home/isle/kc/QR/zxing/src/main/res/menu/encode.xml"
+    }
+]
